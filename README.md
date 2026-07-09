@@ -1,28 +1,40 @@
 <h1 align="center">Hi 👋, I'm Pandikunta Balaji</h1>
 
 <h3 align="center">
-💻 Aspiring Python Full Stack Developer | 📊 Data Analytics Enthusiast | 🤖 Machine Learning Learner
+Aspiring Python Full Stack Developer | Data Analytics Enthusiast | Machine Learning Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Python+Full+Stack+Developer;Data+Analytics+Enthusiast;Machine+Learning+Learner;FastAPI+%7C+Streamlit+%7C+MySQL;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Data+Analytics+Enthusiast;Machine+Learning+Learner;FastAPI+%7C+Streamlit+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://balaji.infy.uk">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🌱 Currently learning **Python Full Stack Development**
 - 📊 Interested in **Data Analytics & Exploratory Data Analysis (EDA)**
 - 🤖 Passionate about **Machine Learning**
-- 💡 Love solving real-world problems with Python
-- 🚀 Always learning new technologies
+- 💻 Building real-world web applications using Python
+- 🚀 Always learning new technologies and improving my skills
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -61,47 +73,52 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PANDIKUNTABALAJI&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANDIKUNTABALAJI&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PANDIKUNTABALAJI&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANDIKUNTABALAJI&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=PANDIKUNTABALAJI&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=PANDIKUNTABALAJI&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📫 Connect With Me
+## 🏆 GitHub Achievements
 
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 🌐 Portfolio: *(Add your portfolio URL)*
-- 📧 Email: *(Add your email address)*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PANDIKUNTABALAJI&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Featured Projects
 
-⭐ Online Payment Fraud Detection Using Machine Learning
+| Project | Description |
+|---------|-------------|
+| 💳 Online Payment Fraud Detection | Machine Learning model to detect fraudulent transactions |
+| 🧠 CodeMaster Quiz | Interactive programming quiz platform |
+| ❤️ Heart Disease Prediction | ML-based healthcare prediction system |
+| 🌐 Portfolio Website | Personal portfolio showcasing projects and skills |
+| ⚡ FastAPI APIs | REST APIs built using FastAPI |
+| 📊 Streamlit Applications | Interactive dashboards and ML apps |
 
-⭐ CodeMaster Quiz
+---
 
-⭐ Heart Disease Prediction
+## 📫 Connect With Me
 
-⭐ Portfolio Website
-
-⭐ Streamlit Applications
-
-⭐ FastAPI REST APIs
+- 💼 LinkedIn: **YOUR_LINKEDIN_URL**
+- 🌐 Portfolio: **https://balaji.infy.uk**
+- 📧 Email: **YOUR_EMAIL@example.com**
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:5B86E5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C2FF&height=120&section=footer"/>
 </p>
