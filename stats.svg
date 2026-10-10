@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 112" width="800" height="112" role="img" aria-label="6+ internships, 6+ projects, 7+ certificates, 8+ skills"><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 16" to="0 0" dur="0.8s" begin="0.2s" fill="freeze"/>
+<rect x="0" y="4" width="185" height="104" rx="14" fill="#121a3a" stroke="#262f5c"/>
+<rect x="0" y="4" width="185" height="6" rx="3" fill="#7c5cff"/>
+<text x="92.5" y="66" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#7c5cff">6+</text>
+<text x="92.5" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#aab3e0">Internships</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.38s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 16" to="0 0" dur="0.8s" begin="0.38s" fill="freeze"/>
+<rect x="205" y="4" width="185" height="104" rx="14" fill="#121a3a" stroke="#262f5c"/>
+<rect x="205" y="4" width="185" height="6" rx="3" fill="#22d3ee"/>
+<text x="297.5" y="66" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#22d3ee">6+</text>
+<text x="297.5" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#aab3e0">Projects</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.56s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 16" to="0 0" dur="0.8s" begin="0.56s" fill="freeze"/>
+<rect x="410" y="4" width="185" height="104" rx="14" fill="#121a3a" stroke="#262f5c"/>
+<rect x="410" y="4" width="185" height="6" rx="3" fill="#ff7a59"/>
+<text x="502.5" y="66" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#ff7a59">7+</text>
+<text x="502.5" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#aab3e0">Certificates</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.74s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 16" to="0 0" dur="0.8s" begin="0.74s" fill="freeze"/>
+<rect x="615" y="4" width="185" height="104" rx="14" fill="#121a3a" stroke="#262f5c"/>
+<rect x="615" y="4" width="185" height="6" rx="3" fill="#ff5d8f"/>
+<text x="707.5" y="66" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#ff5d8f">8+</text>
+<text x="707.5" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#aab3e0">Skills</text></g></svg>

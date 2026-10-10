@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="Thanks for visiting">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c5cff"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#ff7a59"/></linearGradient></defs>
+<path d="M0 70 Q125 30 250 70 T500 70 T750 70 T1000 70 T1250 70 T1500 70 T1750 70 T2000 70 L2000 170 L0 170 Z" fill="url(#g)" opacity=".45"><animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="9s" repeatCount="indefinite"/></path>
+<path d="M0 88 Q125 54 250 88 T500 88 T750 88 T1000 88 T1250 88 T1500 88 T1750 88 T2000 88 L2000 170 L0 170 Z" fill="url(#g)" opacity=".85"><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="7s" repeatCount="indefinite"/></path>
+<text x="500" y="140" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff" opacity="0">Thanks for visiting  ·  Let's build something great ✨<animate attributeName="opacity" from="0" to="1" dur="1s" begin=".5s" fill="freeze"/></text>
+</svg>
