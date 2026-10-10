@@ -4,7 +4,7 @@
 
 # Pandikunta Balaji
 
-### Data Scientist · AI & ML
+### Data Scientist & AIML Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=560&lines=Turning+data+into+answers;Data+Science+%7C+Gen+AI+%26+LLMs;Aspiring+AI%2FML+Engineer;Open+to+work+%F0%9F%9A%80" alt="Typing animation" />
 
@@ -15,16 +15,16 @@
 <a href="mailto:balajipandikunta93@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-FF7A59?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA043?style=for-the-badge" alt="Open to work">
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=PANDIKUNTABALAJI&label=Profile%20views&color=7C5CFF&style=flat-square" alt="Profile views" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C5CFF,100:22D3EE&height=70&section=header&text=About%20Me&fontSize=30&fontColor=ffffff" width="100%" alt="About Me" />
 
+I'm a dedicated **data scientist and AI/ML engineer** with a strong foundation in artificial intelligence and machine learning. I recently completed my B.Tech and I'm now training in **Data Science with Gen AI & LLMs** at Innomatics Research Labs, under the guidance of experienced professionals.
+
+Through internships and projects I've worked across **machine learning, data analysis and web development**, building models for fraud detection, classification and price prediction. I enjoy taking a messy dataset, exploring it, and turning it into something people can act on.
+
 - 🎓 **B.Tech graduate** in AI & Machine Learning, **CGPA 8.9**
-- 🧠 Currently training in **Data Science with Gen AI & LLMs** at Innomatics Research Labs
+- 🧠 Currently training in **Data Science with Gen AI & LLMs**
 - 🔭 Building **machine learning projects** in classification, regression and fraud detection
 - 🌱 Always learning the tools and techniques the field is moving toward
 - 🎯 Looking for a **Data Science / AI-ML role** where I can grow and contribute
@@ -101,29 +101,33 @@ timeline
 | Intermediate (M.P.C) | M.N.M Jr. College | 2022 | 800 / 1000 |
 | SSC | K.V.N & L High School | 2020 | 9.3 |
 
-<details>
-<summary><b>📜 Certificates (click to expand)</b></summary>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF7A59,100:7C5CFF&height=70&section=header&text=Certificates&fontSize=30&fontColor=ffffff" width="100%" alt="Certificates" />
 
-- Python Programming (Basic), **HackerRank**
-- Python Programming for Data Science, **NPTEL**
-- CodingChallenge21, **Naukri Campus**
-- Introduction to Blockchain, **VOIS**
-- Soft Skills, **TCS ION**
-- Fundamentals of AI & ML, **YBI Foundation**
-- Data Science with Gen AI & LLMs, **Innomatics Research Labs**
+| | Certificate | Issued by |
+| :-: | --- | --- |
+| 🐍 | **Python Programming (Basic)** | HackerRank |
+| 📊 | **Python Programming for Data Science** | NPTEL |
+| 💻 | **CodingChallenge21** | Naukri Campus |
+| ⛓️ | **Introduction to Blockchain** | VOIS |
+| 🤝 | **Soft Skills** | TCS ION |
+| 🤖 | **Fundamentals of AI & ML** | YBI Foundation |
+| 🧠 | **Data Science with Gen AI & LLMs** | Innomatics Research Labs |
 
-</details>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:22D3EE,100:FF5D8F&height=70&section=header&text=Achievements%20and%20Hobbies&fontSize=30&fontColor=ffffff" width="100%" alt="Achievements and Hobbies" />
 
-<details>
-<summary><b>🏆 Achievements and Hobbies (click to expand)</b></summary>
-<br/>
+| | Achievement | Level | Year |
+| :-: | --- | --- | :-: |
+| 🏆 | **Consolation prize in a hackathon** | Institute level | 2025 |
+| 🏏 | **Led the team to the cricket championship** | School level | 2020 |
 
-- Consolation prize, institute-level hackathon (2025)
-- Led the team to the school-level cricket championship (2020)
-- Hobbies: learning new technologies, puzzle games, cricket, horror movies
+<div align="center">
 
-</details>
+![Learning new technologies](https://img.shields.io/badge/Learning%20New%20Technologies-7C5CFF?style=for-the-badge)
+![Puzzle games](https://img.shields.io/badge/Puzzle%20Games-22D3EE?style=for-the-badge)
+![Cricket](https://img.shields.io/badge/Cricket-FF7A59?style=for-the-badge)
+![Horror movies](https://img.shields.io/badge/Horror%20Movies-FF5D8F?style=for-the-badge)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C5CFF,100:22D3EE&height=70&section=header&text=GitHub%20Stats&fontSize=30&fontColor=ffffff" width="100%" alt="GitHub Stats" />
 
