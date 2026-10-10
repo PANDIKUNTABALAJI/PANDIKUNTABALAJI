@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pandikuntabalaji.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-7C5CFF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="https://dulcet-cuchufli-98a905.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C5CFF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/pandikunta-balaji-957154244"><img src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:balajipandikunta93@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-FF7A59?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
