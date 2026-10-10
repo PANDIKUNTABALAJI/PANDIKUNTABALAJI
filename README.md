@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:FF7A59&height=220&section=header&text=Pandikunta%20Balaji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%C2%B7%20AI%20%26%20ML&descSize=20&descAlignY=58" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:FF7A59&height=160&section=header" width="100%" alt="" />
+
+# Pandikunta Balaji
+
+### Data Scientist · AI & ML
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=560&lines=Turning+data+into+answers;Data+Science+%7C+Gen+AI+%26+LLMs;Aspiring+AI%2FML+Engineer;Open+to+work+%F0%9F%9A%80" alt="Typing animation" />
 
 <br/>
 
-<a href="https://pandikuntabalaji.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7C5CFF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+<a href="https://dulcet-cuchufli-98a905.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7C5CFF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/pandikunta-balaji-957154244"><img src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:balajipandikunta93@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-FF7A59?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA043?style=for-the-badge" alt="Open to work">
@@ -64,7 +68,7 @@
 | 💎 | **Diamond Price Prediction** | Regression model that predicts a diamond's price from its attributes |
 | 📧 | **Email Spam / Ham Detection** | Classifier that separates spam emails from genuine ones |
 | 🐦 | **Flappy Bird AI Game** | Flappy Bird clone with an AI that learns to play the game on its own |
-| 🌐 | **Portfolio Website** | Responsive personal site with animations: [pandikuntabalaji.netlify.app](https://pandikuntabalaji.netlify.app) |
+| 🌐 | **Portfolio Website** | Responsive personal site with animations: [dulcet-cuchufli-98a905.netlify.app](https://dulcet-cuchufli-98a905.netlify.app) |
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF5D8F,100:7C5CFF&height=70&section=header&text=Internships&fontSize=30&fontColor=ffffff" width="100%" alt="Internships" />
 
@@ -134,8 +138,8 @@ timeline
 
 <div align="center">
 
-📧 **balajipandikunta93@gmail.com** &nbsp;|&nbsp; 📱 **+91 9392464958** &nbsp;|&nbsp; 🌐 **[pandikuntabalaji.netlify.app](https://pandikuntabalaji.netlify.app)**
+📧 **balajipandikunta93@gmail.com** &nbsp;|&nbsp; 📱 **+91 9392464958** &nbsp;|&nbsp; 🌐 **[dulcet-cuchufli-98a905.netlify.app](https://dulcet-cuchufli-98a905.netlify.app)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:FF7A59&height=130&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:FF7A59&height=130&section=footer" width="100%" alt="" />
 
 </div>
